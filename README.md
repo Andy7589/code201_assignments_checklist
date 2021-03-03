@@ -87,7 +87,10 @@
 
 ## **March18,2021**
 
-- [ ] f
+- [ ] Learning Journal: 08
+- [ ] Read: 09 - Forms and Events
+- [ ] Lab: 09 - Add a form to the cookie stand project
+- [ ] Review: Quiz #3
 
 
 ## **March19,2021**
