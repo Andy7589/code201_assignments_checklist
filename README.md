@@ -28,4 +28,20 @@
 
 ## **March10,2021**
 
+- [ ] Learning Journal: 02
+- [ ] Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
+- [ ] Career: Identify Your Accountability Parters
+- [ ] Lab: 03 - Extended your 'About Me' and guessing game
+
+
+## **March11,2021**
+
+- [ ] Learning Journal: 03
+- [ ] Read: 04 - HTML Links, CSS Layout, JS Functions
+- [ ] Review: Quiz #1
+- [ ] Lab: 04 - Pair Programming: More extensions to About Me
+
+
+## **March12,2021**
+
 - [ ] k
