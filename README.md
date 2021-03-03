@@ -1,2 +1,2 @@
-# code201_assignments_checklist
-checklist for code201 assignments
+# **Code201 homework and assignments checklist**
+*checklist for code201 assignments*
