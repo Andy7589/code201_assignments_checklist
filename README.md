@@ -79,7 +79,10 @@
 
 ## **March17,2021**
 
-- [ ] f
+- [ ] Learning Journal: 07
+- [ ] Read: 08 - More CSS Layout
+- [ ] Lab: 08a - HTML/CSS Wireframe Exercise
+- [ ] Lab: 08b - Work on styling the cookie stand project
 
 
 ## **March18,2021**
