@@ -95,12 +95,17 @@
 
 ## **March19,2021**
 
-- [ ] f
+- [ ] Learning Journal: 09
+- [ ] Read: 10 - JS Debugging
+- [ ] Lab: 10a - Design comp (Chocolate Pizza)
+- [ ] Feedback: Week 2
+- [ ] Lab: 10b - Finish the salmon cookie stand project 
+- [ ] Lab: 10c - Git Practice 
 
 
 ## **March20,2021**
 
-- [ ] f
+- [ ] Learning Journal: 10
 
 
 ## **March21,2021**
