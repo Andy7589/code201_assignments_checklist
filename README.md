@@ -12,3 +12,20 @@
 - [ ] Career: Update Your Resume
 - [ ] Prep: Setup Your Account
 
+
+## **March08,2021**
+
+- [ ] Lab: 01a - Create a Reading Notes Repo
+- [ ] Read: 01 - Introductory HTML and JavaScript
+- [ ] Lab: 01b - Getting Up and Running!
+
+
+## **March09,2021**
+
+- [ ] Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+- [ ] Lab: 02 - About Me, with a guessing game
+
+
+## **March10,2021**
+
+- [ ] k
