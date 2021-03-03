@@ -55,22 +55,26 @@
 
 ## **March13,2021**
 
-- [ ] l
+- [ ] Learning Journal: 05
+- [ ] Career: Behavioral Interview Questions
 
 
 ## **March14,2021**
 
-- [ ] f
+- [ ] Review: Quiz #2
 
 
 ## **March15,2021**
 
-- [ ] f
+- [ ] Read: 06 - JS Object Literals: The DOM
+- [ ] Lab: 06 - Get started on the Salmon Cookies project
 
 
 ## **March16,2021**
 
-- [ ] f
+- [ ] Learning Journal: 06
+- [ ] Read: 07 - HTML Tables; JS Constructor Functions
+- [ ] Lab: 07 - Add a constructor function to the cookie stand project
 
 
 ## **March17,2021**
