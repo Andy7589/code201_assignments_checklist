@@ -44,4 +44,15 @@
 
 ## **March12,2021**
 
-- [ ] k
+- [ ] Learning Journal: 04
+- [ ] Career: Partner Power Hour, Report #1
+- [ ] Feedback: Week 1
+- [ ] Lab: 05a - Write some functions on Git branches!
+- [ ] Lab: 05b - Finish and deploy your About Me
+- [ ] Lab: 05c - CSS Selector Practice 
+- [ ] Read: 05 - HTML Images; CSS Color & Text
+
+
+## **March13,2021**
+
+- [ ] l
