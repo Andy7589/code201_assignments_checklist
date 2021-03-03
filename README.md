@@ -4,11 +4,11 @@
 
 ## **March07,2021**
 
-- [ ] f
-- [ ] f
-- [ ] f
-- [ ] f
-- [ ] f
-- [ ] f
-- [ ] f
+- [ ] Career: Career Coaching Overview
+- [ ] Career: Prepare Your LinkedIn
+- [ ] Career: Pofessional Competency Self-Assessment
+- [ ] Career: Social Media
+- [ ] Career: Status Report
+- [ ] Career: Update Your Resume
+- [ ] Prep: Setup Your Account
 
