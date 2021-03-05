@@ -148,12 +148,20 @@
 
 ## **March26,2021**
 
-- [ ] f
+- [ ] Learning Journal: 14
+- [ ] Career: Stage Freight
+- [ ] Feedback: Week 3
+- [ ] Lab: 15a - Merge conflicts with Bob, Carol, Ted, and Alice
+- [ ] Lab: 15b - Finish with the BusMall app
+- [ ] Project: Prep #1
+- [ ] Project: Prep #2
+- [ ] Project: Prep #3
+- [ ] Review: Quiz #6
 
 
 ## **March27,2021**
 
-- [ ] f
+- [ ] Learning Journal: 15
 
 
 ## **March28,2021**
