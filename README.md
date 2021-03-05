@@ -110,12 +110,16 @@
 
 ## **March21,2021**
 
-- [ ] f
+- [ ] Career: Partner Power Hour, Report #2
+- [ ] Career: Target Job Search
+- [ ] Review: Quiz #4
+- [ ] Week 2: Student/instructor one-on-one meeting
 
 
 ## **March22,2021**
 
-- [ ] f
+- [ ] Read: 11 - Assorted Topics
+- [ ] Lab: 11 - Get sterted on BusMall
 
 
 ## **March23,2021**
