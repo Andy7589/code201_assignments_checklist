@@ -185,14 +185,28 @@
 
 ## **March31,2021**
 
-- [ ] f
+- [ ] Project: Report #3
 
 
 ## **April01,2021**
 
-- [ ] f
+- [ ] Project: Report #4
 
 
 ## **April02,2021**
 
-- [ ] f
+- [ ] Career: Attend A Meetup
+- [ ] Career: Talk to your Network
+- [ ] End-of-course Instructor Review Result
+- [ ] Feedback: Final Week
+- [ ] Final Project: Group Submission
+- [ ] Final Project: Individual Submission
+- [ ] Code 301 Entrance Exam Result
+- [ ] End-of-course Instructor Review
+- [ ] Roll Call Attendace
+
+
+
+
+
+
