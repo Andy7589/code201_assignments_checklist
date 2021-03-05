@@ -124,17 +124,26 @@
 
 ## **March23,2021**
 
-- [ ] f
+- [ ] Learing Journal: 11
+- [ ] Read: 12 - Docs for the HTML <canvas> Element & Chart.js
+- [ ] Review: Quiz #5
+- [ ] Lab: 12 - Add a chart to your BusMall app
 
 
 ## **March24,2021**
 
-- [ ] f
+- [ ] Discuss Project Ideas
+- [ ] Learning Journal: 12
+- [ ] Read: 13 - Local Storage
+- [ ] Lab: 13 - Add local storage to BusMall
 
 
 ## **March25,2021**
 
-- [ ] f
+- [ ] Learning Journal: 13
+- [ ] Read: 14a - CSS Transforms, Transitions, and Animation
+- [ ] Read: 14b - What Google Learned About Teams
+- [ ] Lab: 14 - Create an Order Form and a Shopping Cart
 
 
 ## **March26,2021**
