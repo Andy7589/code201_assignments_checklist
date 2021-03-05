@@ -166,17 +166,21 @@
 
 ## **March28,2021**
 
-- [ ] f
+- [ ] Career: Give Your 60 Seconds Professional Pitch
+- [ ] Career: Partner Power Hour, Report #3
+- [ ] Career: Resume Review By Your Accountability Parters
+- [ ] Exam: Code 301 Entrance Exam
 
 
 ## **March29,2021**
 
-- [ ] f
+- [ ] Project: Prep #4
+- [ ] Project: Report #1
 
 
 ## **March30,2021**
 
-- [ ] f
+- [ ] Project: Report #2
 
 
 ## **March31,2021**
