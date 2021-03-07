@@ -6,7 +6,7 @@
 
 - [ ] Career: Career Coaching Overview
 - [ ] Career: Prepare Your LinkedIn
-- [ ] Career: Pofessional Competency Self-Assessment
+- [X] Career: Pofessional Competency Self-Assessment
 - [ ] Career: Social Media
 - [ ] Career: Status Report
 - [ ] Career: Update Your Resume
