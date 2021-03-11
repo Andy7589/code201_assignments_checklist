@@ -37,7 +37,7 @@
 ## **March11,2021**
 
 - [ ] Learning Journal: 03
-- [ ] Read: 04 - HTML Links, CSS Layout, JS Functions
+- [X] Read: 04 - HTML Links, CSS Layout, JS Functions
 - [ ] Review: Quiz #1
 - [ ] Lab: 04 - Pair Programming: More extensions to About Me
 
