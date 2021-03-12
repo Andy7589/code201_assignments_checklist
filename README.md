@@ -44,7 +44,7 @@
 
 ## **March12,2021**
 
-- [ ] Learning Journal: 04
+- [X] Learning Journal: 04
 - [ ] Career: Partner Power Hour, Report #1
 - [ ] Feedback: Week 1
 - [ ] Lab: 05a - Write some functions on Git branches!
