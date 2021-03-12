@@ -16,7 +16,7 @@
 ## **March08,2021**
 
 - [X] Lab: 01a - Create a Reading Notes Repo
-- [ ] Read: 01 - Introductory HTML and JavaScript
+- [X] Read: 01 - Introductory HTML and JavaScript
 - [ ] Lab: 01b - Getting Up and Running!
 
 
