@@ -72,8 +72,8 @@
 
 ## **March16,2021**
 
-- [ ] Learning Journal: 06
-- [ ] Read: 07 - HTML Tables; JS Constructor Functions
+- [X] Learning Journal: 06
+- [X] Read: 07 - HTML Tables; JS Constructor Functions
 - [ ] Lab: 07 - Add a constructor function to the cookie stand project
 
 
