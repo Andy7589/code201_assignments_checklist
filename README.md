@@ -61,7 +61,7 @@
 
 ## **March14,2021**
 
-- [ ] Review: Quiz #2
+- [X] Review: Quiz #2
 
 
 ## **March15,2021**
